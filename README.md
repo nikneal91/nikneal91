@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Spring, Spring Boot, Hibernate**
 
-- 👨‍💻 All of my projects are available at [nikneal91.github.io](nikneal91.github.io)
+- 👨‍💻 All of my projects are available at [https://nikneal91.github.io](nikneal91.github.io)
 
 - 💬 Ask me about **Java JavaEE Data Structure**
 
 - 📫 How to reach me **nikhilsharma040691@gmail.com**
 
-- 📄 Know about my experiences [nikneal91.github.io/resume](nikneal91.github.io/resume)
+- 📄 Know about my experiences [https://nikneal91.github.io/resume](nikneal91.github.io/resume)
 
 - ⚡ Fun fact **waste a lot of time learning time management**
 
