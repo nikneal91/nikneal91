@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://nikneal91.github.io)
+[![MasterHead]](https://nikneal91.github.io)
 <h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
 <h3 align="center">A passionate backend/frontend fullstack developer from India</h3>
 
