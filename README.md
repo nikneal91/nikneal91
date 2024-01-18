@@ -1,5 +1,6 @@
 [![MasterHead]](https://nikneal91.github.io)
 <h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
+<a align="center" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64490f7ce27257737497f4c7?variant=dark" alt="roadmap.sh"/></a>
 <h3 align="center">A passionate backend/frontend fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikneal91&label=Profile%20views&color=0e75b6&style=flat" alt="nikneal91" /> </p>
@@ -21,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikhilsharma1991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilsharma1991" height="30" width="40" /></a>
+  
 <a href="https://auth.geeksforgeeks.org/user/nikhil_sharma_1991/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikhil_sharma_1991/profile" height="30" width="40" /></a>
 </p>
 
