@@ -1,5 +1,6 @@
-![Profile Image](https://avatars.githubusercontent.com/u/[nikneal91]?s=200&v=4)
-<h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
+<h1 align="center"> Nikhil Sharma's Portfolio</h1>
+<p>Welcome to my GitHub portfolio! Here you'll find a collection of my projects, contributions, and achievements. Feel free to explore and reach out if you have any questions or collaboration ideas.
+</p>
 <a align="center" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64490f7ce27257737497f4c7?variant=dark" alt="roadmap.sh"/></a>
 <h3 align="center">A passionate backend/frontend fullstack developer from India</h3>
 
