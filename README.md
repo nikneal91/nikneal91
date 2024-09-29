@@ -1,4 +1,4 @@
-[![MasterHead]](https://nikneal91.github.io)
+![Profile Image](https://avatars.githubusercontent.com/u/[nikneal91]?s=200&v=4)
 <h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
 <a align="center" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64490f7ce27257737497f4c7?variant=dark" alt="roadmap.sh"/></a>
 <h3 align="center">A passionate backend/frontend fullstack developer from India</h3>
