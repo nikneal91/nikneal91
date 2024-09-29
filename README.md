@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikneal91" alt="nikneal91" /></a> </p>
 
-- 🌱 I’m currently learning **Spring, Spring Boot, Hibernate**
+- 🌱 I’m currently learning **Helm , Kubernetes , Cloud ( Azure, Google Cloud)**
 
 - 👨‍💻 All of my projects are available at [Project List](https://nikneal91.github.io)
 
