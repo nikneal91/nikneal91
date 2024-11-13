@@ -20,6 +20,14 @@
 
 - ⚡ Fun fact **waste a lot of time learning time management**
 
+
+<h3>Repository Details</h3>
+- nextjs-app : Repository to practise learning next js - a reactjs framework
+
+- javaCollections - Repository to practise java data structure and algorithms
+
+- gitprofile - reposiotry to display gitprofile portfolio available at [Portfolio](https://nikneal91.github.io/gitprofile)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikhilsharma1991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilsharma1991" height="30" width="40" /></a>
