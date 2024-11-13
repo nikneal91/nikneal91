@@ -22,6 +22,7 @@
 
 
 <h3>Repository Details</h3>
+
 - nextjs-app : Repository to practise learning next js - a reactjs framework
 
 - javaCollections - Repository to practise java data structure and algorithms
